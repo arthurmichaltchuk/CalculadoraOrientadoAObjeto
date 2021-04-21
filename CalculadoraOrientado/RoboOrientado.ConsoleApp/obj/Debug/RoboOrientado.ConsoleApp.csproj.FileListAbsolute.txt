@@ -1,0 +1,14 @@
+C:\Users\Ivana\source\repos\RoboOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ivana\source\repos\RoboOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\RoboOrientado\RoboOrientado.ConsoleApp\bin\Debug\RoboOrientado.ConsoleApp.exe.config
+C:\Users\Ivana\source\repos\RoboOrientado\RoboOrientado.ConsoleApp\bin\Debug\RoboOrientado.ConsoleApp.exe
+C:\Users\Ivana\source\repos\RoboOrientado\RoboOrientado.ConsoleApp\bin\Debug\RoboOrientado.ConsoleApp.pdb
+C:\Users\Ivana\source\repos\RoboOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.exe
+C:\Users\Ivana\source\repos\RoboOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.pdb
+C:\Users\Ivana\Desktop\NDD\CalculadoraOrientado\RoboOrientado.ConsoleApp\bin\Debug\RoboOrientado.ConsoleApp.exe.config
+C:\Users\Ivana\Desktop\NDD\CalculadoraOrientado\RoboOrientado.ConsoleApp\bin\Debug\RoboOrientado.ConsoleApp.exe
+C:\Users\Ivana\Desktop\NDD\CalculadoraOrientado\RoboOrientado.ConsoleApp\bin\Debug\RoboOrientado.ConsoleApp.pdb
+C:\Users\Ivana\Desktop\NDD\CalculadoraOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\NDD\CalculadoraOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\NDD\CalculadoraOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.exe
+C:\Users\Ivana\Desktop\NDD\CalculadoraOrientado\RoboOrientado.ConsoleApp\obj\Debug\RoboOrientado.ConsoleApp.pdb
